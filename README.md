@@ -94,7 +94,7 @@ Thank you all for sharing your experiences, once again congratulations for winni
 
 ### Google's Coding competitions :
 
-Google's Code Jam is a coding competition that consists of a set of algorithmic problems which must be solved in a fixed amount of time. Google's Kick Start is a coding competition to hone coding skills with algorithmic puzzles and is mostly meant for students and those who are new to coding competitions.
+***Google's Code Jam*** is a coding competition that consists of a set of algorithmic problems which must be solved in a fixed amount of time. ***Google's Kick Start*** is a coding competition to hone coding skills with algorithmic puzzles and is mostly meant for students and those who are new to coding competitions.
 
 [Visit the website for more details](https://codingcompetitions.withgoogle.com/)
 
@@ -106,6 +106,6 @@ Google Summer of Code is a global program focused on bringing more student devel
 
 ### CodeChef March challenge
 
-Codechef is a competitive programming community where programmers from across the globe participate and compete in various contests every month (Long Challenge, CookOff & LunchTime).
+Codechef is a competitive programming community where programmers from across the globe participate and compete in various contests every month (***Long Challenge, CookOff & LunchTime***).
 
 [Visit the website for more details](https://www.codechef.com/MARCH21)
