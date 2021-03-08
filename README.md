@@ -2,6 +2,8 @@
 
 ## FROM OUR MEMBERS :
 
+---
+
 ### SCRUM MANAGEMENT :
 #### Harshita Raj (batch 2018-2022)
 
@@ -9,6 +11,7 @@ Harshita Raj (batch 2018-22) is a magnificent web-developer who is  an active Op
 
 ![image](https://user-images.githubusercontent.com/53336715/110261375-dad85580-7f64-11eb-80c8-2e80969444a4.png)
 
+---
 
 ### DATING APP :
 #### Ayush Kejariwal (batch 2019-23)
@@ -19,6 +22,7 @@ Ayush Kejariwal (batch 2019-23) is a wonderful Flutter developer who has created
 ![image](https://user-images.githubusercontent.com/53336715/110261512-66ea7d00-7f65-11eb-8187-633d6abeed08.png)
 ![image](https://user-images.githubusercontent.com/53336715/110261520-6d78f480-7f65-11eb-9f4f-e548b5deb965.png)
 
+---
 
 ### CODEDIGGER : 
 #### Rishika Wadhera (batch 2019-23)
@@ -28,7 +32,7 @@ Rishika Wadhera (batch 2019-23) is a fabulous web-developer who has built the fr
 
 ![image](https://user-images.githubusercontent.com/53336715/110262436-8636d980-7f68-11eb-84bf-a8d6d3d468ac.png)
 
-
+---
 
 ### KUNDLI JYOTISH WEBSITE : 
 #### Saniya Ahuja (batch 2019-23)
@@ -42,12 +46,14 @@ Saniya Ahuja (batch 2019-23), an amazing web developer, is currently working wit
 ![image](https://user-images.githubusercontent.com/53336715/110262701-563c0600-7f69-11eb-83ef-ed4fe12eca6e.png)
 ![image](https://user-images.githubusercontent.com/53336715/110262712-5d631400-7f69-11eb-873d-da13dd70c2cc.png)
 
+---
 
 ### ENGLISH PREMIER LEAGUE STATS WEBSITE : 
 #### Tarique Nasar (batch 2019-23)
 
 Tarique Nasar (batch 2019-23), an outstanding python developer, is currently working on a Website to show the English Premier League (EPL) players statistics and compare them. Then a team picker will pick the user’s fantasy premier league team. The data scrape has been implemented using ***Scrapy and Selenium***. ***ReactJS with Django REST*** will be used for further development of the website.
 
+---
 
 ## ACHIEVERS’ SECTION :
 
