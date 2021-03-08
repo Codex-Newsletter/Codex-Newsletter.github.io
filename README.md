@@ -28,3 +28,17 @@ Rishika Wadhera (batch 2019-23) is a fabulous web-developer who has built the fr
 
 ![image](https://user-images.githubusercontent.com/53336715/110262436-8636d980-7f68-11eb-84bf-a8d6d3d468ac.png)
 
+
+
+### KUNDLI JYOTISH WEBSITE : 
+#### Saniya Ahuja (batch 2019-23)
+
+Saniya Ahuja (batch 2019-23), an amazing web developer, is currently working with Krash IT on an Astrology website for a client. She has been assigned for the front-end development of the project. She has used ***HTML, CSS, Bootstrap and Javascript*** to build a beautiful UI and front-end for the Kundli Jyotish Website.
+
+![image](https://user-images.githubusercontent.com/53336715/110262550-f0e81500-7f68-11eb-9398-ab6179d09e2f.png)
+![image](https://user-images.githubusercontent.com/53336715/110262570-f80f2300-7f68-11eb-9dd6-62400b7df44b.png)
+![image](https://user-images.githubusercontent.com/53336715/110262576-ffcec780-7f68-11eb-9109-8023b1c43457.png)
+![image](https://user-images.githubusercontent.com/53336715/110262633-212fb380-7f69-11eb-88d7-28ee83b721e3.png)
+
+
+
