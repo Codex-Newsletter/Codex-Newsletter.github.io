@@ -115,3 +115,39 @@ Google Summer of Code is a global program focused on bringing more student devel
 Codechef is a competitive programming community where programmers from across the globe participate and compete in various contests every month (***Long Challenge, CookOff & LunchTime***).
 
 [Visit the website for more details](https://www.codechef.com/MARCH21)
+
+
+## LATEST TECH NEWS
+
+### Flutter 2: 
+
+A major upgrade to Flutter that enables developers to create beautiful, fast, and portable apps for any platform. With Flutter 2, you can use the same codebase to ship native apps to five operating systems: iOS, Android, Windows, macOS, and Linux.as well as web experiences targeting browsers such as Chrome, Firefox, Safari, or Edge. Flutter can even be embedded in cars, TVs, and smart home appliances, providing the most pervasive and portable experience for an ambient computing world.
+
+[Readmore about it here](https://developers.googleblog.com/2021/03/announcing-flutter-2.html)
+
+### Microsoft Group Transcribe launched
+
+Group Transcribe provides real-time transcription and translation for in-person meetings and conversations. Powered by cutting edge speech and language technology and with a unique multi-device audio input format, the project enables highly accurate speaker attribution so conversation participants can see who said what in their preferred language.
+
+[Read moe about it here](https://www.microsoft.com/en-us/garage/profiles/group-transcribe/)
+
+### Facebook enhances AI computer vision with SEER
+
+The future of AI is in creating systems that can learn directly from whatever information they’re given — whether it’s text, images, or another type of data — without relying on carefully curated and labeled data sets to teach them how to recognize objects in a photo, interpret a block of text, or perform any of the countless other tasks that we ask it to.Facebook AI has now brought this self-supervised learning paradigm shift to computer vision.
+
+[Raad more about it here](https://ai.facebook.com/blog/seer-the-start-of-a-more-powerful-flexible-and-accessible-era-for-computer-vision/)
+
+### WhatsApp is testing new archive and self-destructing messages
+
+WhatsApp is testing a new feature to give its users an ability to send disappearing messages. These messages will self-destruct after a set period of time. The traces of this feature were spotted in the recently released public beta version of WhatsApp for Android - dubbed as v2.19.275. It is currently said to be in development and is not available for public usage, even as a part of the beta version.
+
+[Read more about it here](https://gadgets.ndtv.com/apps/news/whatsapp-self-destruct-messages-feature-development-android-2111171)
+
+### NASA astronauts complete 7 hour-long spacewalk
+
+In the third spacewalk of the year outside the International Space Station, NASA space travelers Kate Rubins and Victor Glover closed their spacewalk following 7 hours and 4 minutes. The two NASA space explorers started work on Monday to install modification kits required for the upcoming solar array upgrades.
+
+[Read more about it here](https://www.nasa.gov/mission_pages/station/spacewalks/)
+
+
+
