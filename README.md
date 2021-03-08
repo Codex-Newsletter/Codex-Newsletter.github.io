@@ -1,4 +1,4 @@
-# **ISSUE-1**: 8th March 2021
+# **ISSUE-1** : 8th March 2021
 
 ## FROM OUR MEMBERS :
 
