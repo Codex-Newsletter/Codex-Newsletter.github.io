@@ -9,6 +9,7 @@ Harshita Raj (batch 2018-22) is a magnificent web-developer who is  an active Op
 
 ![image](https://user-images.githubusercontent.com/53336715/110261375-dad85580-7f64-11eb-80c8-2e80969444a4.png)
 
+
 ### DATING APP :
 #### Ayush Kejariwal (batch 2019-23)
 
@@ -17,3 +18,13 @@ Ayush Kejariwal (batch 2019-23) is a wonderful Flutter developer who has created
 ![image](https://user-images.githubusercontent.com/53336715/110262032-28ee5880-7f67-11eb-85b0-502c899eafe0.png)
 ![image](https://user-images.githubusercontent.com/53336715/110261512-66ea7d00-7f65-11eb-8187-633d6abeed08.png)
 ![image](https://user-images.githubusercontent.com/53336715/110261520-6d78f480-7f65-11eb-9f4f-e548b5deb965.png)
+
+
+### CODEDIGGER : 
+#### Rishika Wadhera (batch 2019-23)
+
+Rishika Wadhera (batch 2019-23) is a fabulous web-developer who has built the frontend of codedigger.tech website using ***ReactJS***. It is a website that provides selected problems from the top coding sites (Codeforces, Codechef, UVa and SPOJ) to enhance skills in competitive programming. It has features like upsolve, profile, mentors, friend list etc. The website sorts out all topics as a ladder of easy to hard questions. Before diving into any topics, the website provides amazing techniques through video tutorials. After solving the complete ladder, users can test their knowledge by doing a virtual contest based on the topic they learnt.
+[Codedigger Website](https://codedigger.tech/)
+
+![image](https://user-images.githubusercontent.com/53336715/110262436-8636d980-7f68-11eb-84bf-a8d6d3d468ac.png)
+
