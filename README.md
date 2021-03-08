@@ -67,23 +67,23 @@ Let us hear what participants have to share with us.
 
 #### Abhinandan Roul : 
 
-" The organizing committee of Trident was commendable. They assigned volunteers for each team for better communication. My part was in ML, involved data collection, pre-processing , model training and evaluation. "
+"The organizing committee of Trident was commendable. They assigned volunteers for each team for better communication. My part was in ML, involved data collection, pre-processing , model training and evaluation."
 
 #### Anshuman Mohapatra : 
 
-" The experience was amazing although coordinating was a bit difficult as each one of us were far away from each other. My contribution was in making websites, using React J's to make web app, and using firebase for authentication and storage. Trithon got talent was a stress buster that helped us rejuvenate. "
+"The experience was amazing although coordinating was a bit difficult as each one of us were far away from each other. My contribution was in making websites, using React J's to make web app, and using firebase for authentication and storage. Trithon got talent was a stress buster that helped us rejuvenate."
 
 #### Sourav Bera : 
 
-" It was a fantastic experience, team members were very co-operative, Organisers were also co operative and handled the proceedings well. My Contribution was in crops and disease detection, with pests detection. Also handled APIs for performing ML over the web app. I planned at making the app work offline. "
+"It was a fantastic experience, team members were very co-operative, Organisers were also co operative and handled the proceedings well. My Contribution was in crops and disease detection, with pests detection. Also handled APIs for performing ML over the web app. I planned at making the app work offline."
 
 #### Sunanda Samantaray : 
 
-" This was my first hackathon experience. Being at a different geographical location didn't drift the coordination nor the work process as each one of us contributed significantly in the whole process. I contributed in one of the key features that we had in our app I.e, I suggested having various regional languages so that it will be accessible easily for anyone who doesn't have knowledge rather than the local language. "
+"This was my first hackathon experience. Being at a different geographical location didn't drift the coordination nor the work process as each one of us contributed significantly in the whole process. I contributed in one of the key features that we had in our app I.e, I suggested having various regional languages so that it will be accessible easily for anyone who doesn't have knowledge rather than the local language."
 
 #### Shubhaprasad Padhy : 
 
-" It was my first 24 hours online hackathon. It was different because we were isolated and connected via the internet. I contributed by implementing the machine learning models provided by my teammates using tensorflow lite library for android. "
+"It was my first 24 hours online hackathon. It was different because we were isolated and connected via the internet. I contributed by implementing the machine learning models provided by my teammates using tensorflow lite library for android."
 
 Thank you all for sharing your experiences, once again congratulations for winning 2nd prize.
 
