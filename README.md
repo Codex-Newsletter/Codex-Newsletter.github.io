@@ -14,6 +14,6 @@ Harshita Raj (batch 2018-22) is a magnificent web-developer who is  an active Op
 
 Ayush Kejariwal (batch 2019-23) is a wonderful Flutter developer who has created a marvelous Dating app that takes matches directly to the real world. It is made using Flutter and Firebase. The motto of the app is, “Engage with people not apps”. The app directly skips the tireless texting and directly generates meetings for dates. It’s an innovative initiative taken by Ayush and his team to develop this app. It was an immense pleasure for them to turn their perspiration into inspiration to learn new functionalities to implement with the app, along with modern UI and minimal design. Thanks to the whole Flutter community for making useful plugins that can be helpful to the community members. 
 
-![image](https://user-images.githubusercontent.com/53336715/110261853-a5346c00-7f66-11eb-88d0-dfab225468c5.png)
+![image](https://user-images.githubusercontent.com/53336715/110262032-28ee5880-7f67-11eb-85b0-502c899eafe0.png)
 ![image](https://user-images.githubusercontent.com/53336715/110261512-66ea7d00-7f65-11eb-8187-633d6abeed08.png)
 ![image](https://user-images.githubusercontent.com/53336715/110261520-6d78f480-7f65-11eb-9f4f-e548b5deb965.png)
