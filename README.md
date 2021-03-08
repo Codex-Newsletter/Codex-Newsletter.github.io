@@ -116,16 +116,18 @@ Codechef is a competitive programming community where programmers from across th
 
 [Visit the website for more details](https://www.codechef.com/MARCH21)
 
+---
 
-## LATEST TECH NEWS
 
-### Flutter 2: 
+## LATEST TECH NEWS :
+
+### Flutter 2 
 
 A major upgrade to Flutter that enables developers to create beautiful, fast, and portable apps for any platform. With Flutter 2, you can use the same codebase to ship native apps to five operating systems: iOS, Android, Windows, macOS, and Linux.as well as web experiences targeting browsers such as Chrome, Firefox, Safari, or Edge. Flutter can even be embedded in cars, TVs, and smart home appliances, providing the most pervasive and portable experience for an ambient computing world.
 
 [Readmore about it here](https://developers.googleblog.com/2021/03/announcing-flutter-2.html)
 
-### Microsoft Group Transcribe launched
+### Microsoft Group Transcribe launched 
 
 Group Transcribe provides real-time transcription and translation for in-person meetings and conversations. Powered by cutting edge speech and language technology and with a unique multi-device audio input format, the project enables highly accurate speaker attribution so conversation participants can see who said what in their preferred language.
 
@@ -150,4 +152,9 @@ In the third spacewalk of the year outside the International Space Station, NASA
 [Read more about it here](https://www.nasa.gov/mission_pages/station/spacewalks/)
 
 
+---
 
+
+## POLL QUESTION :
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeXIQGLJ0VEvSpMCpEiAB3Fc3LGgaPMdq_HJhgDyYhkf5vxYg/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
