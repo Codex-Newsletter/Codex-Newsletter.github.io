@@ -61,7 +61,7 @@ Tarique Nasar (batch 2019-23), an outstanding python developer, is currently wor
 
 Team members are **Abhinandan Roul, Anshuman Mohapatra, Sourav Bera, Sunanda Samantaray and Shubhaprasad Padhy**. In the Trithon they won 2nd place by mitigating the problem statement(PS115), Plantmedic which basically helps farmers and students to identify plant diseases, weeds, nutrient deficiency, and crop variety detection. 
 
-Plantmedic functions both as a website and an app. They have utilised Android Studio and implemented the code script in  java (for app) and in ReactJs (for website). They have used tensorflow lite models to implement it in the android application.Data has been procured from a variety of sources like the Plant Village dataset, DeepWeeds dataset and sourced many other images from various Govt. websites to build and train an effective machine learning model.
+Plantmedic functions both as a website and an app. They have utilised Android Studio and implemented the code script in  ***java (for app) and in ReactJs (for website)***. They have used ***tensorflow lite models*** to implement it in the android application. Data has been procured from a variety of sources like the *Plant Village dataset, DeepWeeds dataset* and sourced many other images from various Govt. websites to build and train an effective machine learning model.
 
 Let us hear what participants have to share with us.
 
