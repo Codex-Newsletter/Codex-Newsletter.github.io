@@ -91,4 +91,22 @@ Thank you all for sharing your experiences, once again congratulations for winni
 
 ## IMPORTANT CODING EVENTS :
 
+---
 
+### Google's Coding competitions :
+
+Google's Code Jam is a coding competition that consists of a set of algorithmic problems which must be solved in a fixed amount of time. Google's Kick Start is a coding competition to hone coding skills with algorithmic puzzles and is mostly meant for students and those who are new to coding competitions.
+
+[Visit the website for more details](https://codingcompetitions.withgoogle.com/)
+
+### Google Summer of Code :
+
+Google Summer of Code is a global program focused on bringing more student developers into open source software development. Students work with an open source organization on a 10 week programming project during their break from school.
+
+[Visit the website for more details](https://summerofcode.withgoogle.com/)
+
+### CodeChef March challenge
+
+Codechef is a competitive programming community where programmers from across the globe participate and compete in various contests every month (Long Challenge, CookOff & LunchTime).
+
+[Visit the website for more details](https://www.codechef.com/MARCH21)
